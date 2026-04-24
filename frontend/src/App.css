@@ -1,0 +1,6 @@
+/* NOIR ROMA — App-specific styles (kept minimal; main design lives in index.css) */
+.App {
+    min-height: 100vh;
+    background-color: var(--nr-bg);
+    color: var(--nr-text);
+}
